@@ -1,6 +1,6 @@
 ### Hi there 👋, nsaodat
 #### Software tester and Automation
-![Software tester and Automation](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I am Nafisa, currently based in the UK. I like testing a software and develop automation frameworks. I really enjoy learning new technologies.
 
