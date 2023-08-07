@@ -1,10 +1,11 @@
-### Hi there 👋, nsaodat
-#### Software tester and Automation
-
+# Nafisa Ravshanova
 
 I am Nafisa, currently based in the UK. I like testing a software and develop automation frameworks. I really enjoy learning new technologies.
 
-Skills: Java programming/Selenium/JUnit/HTML/SQL/ API testing
+## Skills and Experience
+
+* 💻Java, Selenium, JUnit, HTML
+* 📅SQL/API testing
 
 
 
